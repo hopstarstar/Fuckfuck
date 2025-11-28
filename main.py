@@ -4,12 +4,12 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import Command
 import os
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8301751505:AAGMrreQgWuEhDpjA_dmYDP0viNueMJMVE4")
 dp = Dispatcher()
 
 codes = {
-    "1111": "https://site.com/link1",
-    "2222": "https://site.com/link2",
+    "8567": "https://site.com/link1",
+    "2345": "https://site.com/link2",
     "3333": "https://site.com/link3",
     "4444": "https://site.com/link4",
     "5555": "https://site.com/link5",
